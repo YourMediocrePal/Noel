@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        " S ",
+        "LLL",
+        " L ""
+    ],
+
+    "key":
+    {
+        "L":
+        {
+            "item": "minecraft:oak_leaves"
+        },
+    		"S":
+    		{
+    			"item": "minecraft:stick"
+    		}
+    },
+
+    "result":
+    {
+        "item": "noel:mistletoe",
+        "count": 1
+    }
+}

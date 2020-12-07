@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "#$#",
+        "#$#"
+    ],
+    
+    "key":
+    {
+        "#":
+        {
+            "item": "noel:peppermint_planks"
+        },
+        "$":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "noel:peppermint_fence",
+        "count": 4
+    }
+}

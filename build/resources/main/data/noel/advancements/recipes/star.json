@@ -1,0 +1,19 @@
+{
+	"parent": "noel:recipes/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:glass"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": ["noel:gold_star", "noel:glowstone_star"]
+    }
+	
+}

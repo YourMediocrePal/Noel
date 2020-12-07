@@ -1,0 +1,18 @@
+{
+	"parent": "noel:recipes/root",
+    "criteria": {
+        "has_coal": {
+			 "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+					{
+						"item": "minecraft:coal"
+					}
+				]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": ["noel:candle"]
+    }
+}

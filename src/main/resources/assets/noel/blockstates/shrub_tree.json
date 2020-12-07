@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "noel:block/shrub_tree" },
+        "facing=east":  { "model": "noel:block/shrub_tree", "y": 90 },
+        "facing=south": { "model": "noel:block/shrub_tree", "y": 180 },
+        "facing=west":  { "model": "noel:block/shrub_tree", "y": 270 }
+    }
+}

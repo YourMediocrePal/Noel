@@ -1,0 +1,6 @@
+{
+    "parent": "block/pane_alt",
+    "textures": {
+        "pane": "noel:blocks/hanging_light_string"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom",
+    "textures": {
+        "bottom": "noel:block/frosted_door_bottom",
+        "top": "noel:block/frosted_door_top"
+    }
+}

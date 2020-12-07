@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "color=white": { "model": "noel:empty_gift_white" },
+        "color=orange": { "model": "noel:empty_gift_orange" },
+		"color=magenta": { "model": "noel:empty_gift_magenta" },
+		"color=light_blue": { "model": "noel:empty_gift_light_blue" },
+		"color=yellow": { "model": "noel:empty_gift_yellow" },
+		"color=lime": { "model": "noel:empty_gift_lime" },
+		"color=pink": { "model": "noel:empty_gift_pink" },
+		"color=gray": { "model": "noel:empty_gift_gray" },
+		"color=silver": { "model": "noel:empty_gift_silver" },
+		"color=cyan": { "model": "noel:empty_gift_cyan" },
+		"color=purple": { "model": "noel:empty_gift_purple" },
+		"color=blue": { "model": "noel:empty_gift_blue" },
+		"color=brown": { "model": "noel:empty_gift_brown" },
+		"color=green": { "model": "noel:empty_gift_green" },
+		"color=red": { "model": "noel:empty_gift_red" },
+		"color=black": { "model": "noel:empty_gift_black" }
+    }
+}

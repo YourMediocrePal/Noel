@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "G ",
+        "NS"
+    ],
+    
+    "key":
+    {
+        "G":
+        {
+            "item": "minecraft:gold_ingot"
+        },
+		
+		"S":
+		{
+			"item": "minecraft:stick"
+		},
+		
+		"N":
+		{
+			"item": "minecraft:gold_nugget"
+		}
+    },
+    
+    "result":
+    {
+        "item": "noel:bell_ringer",
+        "count": 1
+    }
+}

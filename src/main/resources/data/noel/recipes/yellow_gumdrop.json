@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+        "group": "gumdrop",
+	"ingredients": [
+		{
+			"item": "noel:gelatin"
+		},
+		{
+			"item": "minecraft:yellow_dye"
+		}
+	],
+
+    "result":
+    {
+        "item": "noel:yellow_gumdrop",
+        "count": 1
+    }
+}

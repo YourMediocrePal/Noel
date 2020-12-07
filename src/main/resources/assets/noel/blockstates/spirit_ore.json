@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "noel:block/spirit_ore" },
+            { "model": "noel:block/spirit_ore", "y": 90 },
+            { "model": "noel:block/spirit_ore", "y": 180 },
+            { "model": "noel:block/spirit_ore", "y": 270 }
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+{
+  "noel:advancements/treats/treats": {
+    "criteria": {
+      "trigger_1": "2020-11-16 12:25:43 -0500"
+    },
+    "done": true
+  },
+  "noel:advancements/root": {
+    "criteria": {
+      "trigger_1": "2020-11-16 12:23:31 -0500"
+    },
+    "done": true
+  },
+  "noel:advancements/christmas/spirit": {
+    "criteria": {
+      "trigger_1": "2020-11-16 12:25:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-12-01 11:01:24 -0500",
+      "minecraft:desert_hills": "2020-12-01 11:01:59 -0500",
+      "minecraft:river": "2020-11-16 12:23:31 -0500",
+      "minecraft:wooded_hills": "2020-11-16 12:23:53 -0500",
+      "minecraft:plains": "2020-12-01 11:01:25 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 2584
+}

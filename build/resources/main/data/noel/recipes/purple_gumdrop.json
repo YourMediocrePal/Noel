@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "gumdrop",
+	"ingredients": [
+		{
+			"item": "noel:gelatin"
+		},
+		{
+			"item": "minecraft:purple_dye"
+		}
+	],
+
+    "result":
+    {
+        "item": "noel:purple_gumdrop",
+        "count": 1
+    }
+}

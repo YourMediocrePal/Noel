@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+            { "model": "noel:block/stone_path" },
+            { "model": "noel:block/stone_path", "y": 90 },
+            { "model": "noel:block/stone_path", "y": 180 },
+            { "model": "noel:block/stone_path", "y": 270 },
+            { "model": "noel:block/snowy_stone_path" },
+            { "model": "noel:block/snowy_stone_path", "y": 90 },
+            { "model": "noel:block/snowy_stone_path", "y": 180 },
+            { "model": "noel:block/snowy_stone_path", "y": 270 }
+        ]
+    }
+}
