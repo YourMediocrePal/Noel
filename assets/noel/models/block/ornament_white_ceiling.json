@@ -1,7 +1,0 @@
-{
-    "parent": "noel:block/ornament_ceiling",
-    "textures": {
-        "0": "noel:block/white_stained_ornament",
-		"particle": "noel:block/white_stained_ornament"
-    }
-}
