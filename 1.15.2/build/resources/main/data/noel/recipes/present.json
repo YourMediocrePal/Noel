@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "###",
+		"#S#",
+		"###"
+    ],
+    
+    "key":
+    {
+        "#":
+        {
+            "item": "noel:spirit"
+        },
+        "S":
+        {
+            "item": "minecraft:paper"
+        }
+    },
+    
+    "result":
+    {
+        "item": "noel:present",
+        "count": 1
+    }
+}

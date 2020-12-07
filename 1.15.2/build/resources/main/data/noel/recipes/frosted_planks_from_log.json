@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "noel:frosted_log"
+		}
+	],
+    
+    "result":
+    {
+        "item": "noel:frosted_planks",
+        "count": 4
+    }
+}

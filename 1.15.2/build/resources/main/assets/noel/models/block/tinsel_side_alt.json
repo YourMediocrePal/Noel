@@ -1,0 +1,8 @@
+{
+    "parent": "noel:block/template_light_string_side_alt",
+    "textures": {
+        "edge": "noel:blocks/wall_tinsel",
+        "pane": "noel:blocks/wall_tinsel",
+		"particle": "noel:blocks/wall_tinsel"
+    }
+}

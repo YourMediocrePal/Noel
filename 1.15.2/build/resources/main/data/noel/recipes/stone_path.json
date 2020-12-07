@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "##"
+    ],
+    
+    "key":
+    {
+        "#":
+        {
+            "item": "minecraft:cobblestone"
+        }
+    },
+    
+    "result":
+    {
+        "item": "noel:stone_path",
+        "count": 2
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/pane_noside",
+    "textures": {
+        "pane": "noel:blocks/hanging_light_string"
+    }
+}

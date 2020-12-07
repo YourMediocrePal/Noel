@@ -1,0 +1,19 @@
+{
+	"parent": "noel:advancements/scrooge/scrooge",
+    "display": {
+        "icon": {
+            "item": "noel:present"
+        },
+        "title": "The Gift of Giving",
+        "description": "Place down a present",
+		"show_toast": true
+    },
+    "criteria": {
+        "trigger_1": {
+            "trigger": "minecraft:placed_block",
+			"conditions": {
+                "block": "noel:present"
+            }
+        }
+    }
+}

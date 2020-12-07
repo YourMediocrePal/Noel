@@ -1,0 +1,7 @@
+{
+    "parent": "noel:block/ornament_ceiling",
+    "textures": {
+        "0": "block/pink_stained_glass",
+		"particle": "block/pink_stained_glass"
+    }
+}

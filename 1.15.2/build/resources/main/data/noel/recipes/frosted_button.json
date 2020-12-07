@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "noel:frosted_planks"
+		}
+	],
+
+    "result":
+    {
+        "item": "noel:frosted_button",
+        "count": 1
+    }
+}
