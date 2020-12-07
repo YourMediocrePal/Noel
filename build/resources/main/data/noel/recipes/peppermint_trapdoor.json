@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "###",
+        "###"
+    ],
+    
+    "key":
+    {
+        "#":
+        {
+            "item": "noel:peppermint_planks"
+        }
+    },
+    
+    "result":
+    {
+        "item": "noel:peppermint_trapdoor",
+        "count": 2
+    }
+}

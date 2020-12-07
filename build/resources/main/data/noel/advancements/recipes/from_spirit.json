@@ -1,0 +1,18 @@
+{
+	"parent": "noel:recipes/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "noel:spirit"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": ["noel:present", "noel:advent_calendar"]
+    }
+}

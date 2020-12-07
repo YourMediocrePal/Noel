@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+            { "model": "noel:block/present_red" },
+            { "model": "noel:block/present_orange" },
+            { "model": "noel:block/present_green" },
+            { "model": "noel:block/present_white" },
+            { "model": "noel:block/present_blue" },
+            { "model": "noel:block/present_lime" },
+            { "model": "noel:block/present_cyan" },
+            { "model": "noel:block/present_purple" },
+            { "model": "noel:block/present_red", "y": 90  },
+            { "model": "noel:block/present_orange", "y": 90  },
+            { "model": "noel:block/present_green", "y": 90  },
+            { "model": "noel:block/present_white", "y": 90  },
+            { "model": "noel:block/present_blue", "y": 90  },
+            { "model": "noel:block/present_lime", "y": 90  },
+            { "model": "noel:block/present_cyan", "y": 90  },
+            { "model": "noel:block/present_purple", "y": 90  }
+        ]
+    }
+}

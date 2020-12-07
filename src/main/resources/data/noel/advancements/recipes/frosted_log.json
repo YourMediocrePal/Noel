@@ -1,0 +1,19 @@
+{
+	"parent": "noel:recipes/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "noel:frosted_log"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": ["noel:frosted_planks", "noel:frosted_planks_from_log"]
+    }
+	
+}

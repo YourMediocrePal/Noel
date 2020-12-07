@@ -1,0 +1,7 @@
+{
+	"parent": "noel:block/star",
+    "textures": {
+		"particle": "block/gold_block",
+        "star": "block/gold_block"
+    }
+}

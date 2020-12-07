@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/glass",
+		"1": "block/anvil"
+	},
+	"elements": [
+		{
+			"name": "ball",
+			"from": [5, 5, 10],
+			"to": [11, 11, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13, 4, 13]},
+			"faces": {
+				"north": {"uv": [5, 5, 11, 11], "texture": "#0"},
+				"east": {"uv": [5, 5, 11, 11], "texture": "#0"},
+				"south": {"uv": [5, 5, 11, 11], "texture": "#0"},
+				"west": {"uv": [5, 5, 11, 11], "texture": "#0"},
+				"up": {"uv": [5, 5, 11, 11], "texture": "#0"},
+				"down": {"uv": [5, 5, 11, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "hook",
+			"from": [7.46351, 10.995, 12.92722],
+			"to": [8.46351, 11.005, 17.92722],
+			"rotation": {"angle": -45, "axis": "x", "origin": [7.96351, 11, 13]},
+			"faces": {
+				"up": {"uv": [0, 0, 1, 5], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [0, 0, 1, 5], "rotation": 180, "texture": "#1"}
+			}
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"parent": "noel:recipes/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "minecraft:wool"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": ["noel:black_ribbon", "noel:blue_ribbon", "noel:brown_ribbon", "noel:cyan_ribbon", "noel:gray_ribbon", "noel:green_ribbon", "noel:light_gray_ribbon", "noel:light_blue_ribbon", "noel:lime_ribbon", "noel:magenta_ribbon", "noel:orange_ribbon", "noel:pink_ribbon", "noel:purple_ribbon", "noel:red_ribbon", "noel:white_ribbon", "noel:yellow_ribbon",
+					"noel:black_stocking", "noel:blue_stocking","noel:brown_stocking","noel:gray_stocking", "noel:green_stocking", "noel:cyan_stocking","noel:light_blue_stocking","noel:light_gray_stocking","noel:lime_stocking","noel:magenta_stocking","noel:orange_stocking","noel:pink_stocking","noel:purple_stocking","noel:red_stocking","noel:white_stocking","noel:yellow_stocking"]
+    }
+
+}

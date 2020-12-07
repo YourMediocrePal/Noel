@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+	"group": "candle",
+	"ingredients": [
+		{
+			"item": "minecraft:coal"
+		},
+		{
+			"item": "minecraft:string"
+		},
+		{
+			"item": "minecraft:honeycomb"
+		}
+	],
+    "result":
+    {
+        "item": "noel:candle",
+        "count": 4
+    }
+}

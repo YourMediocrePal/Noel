@@ -1,0 +1,35 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All rights reserved"
+issueTrackerURL="https://www.curseforge.com/minecraft/mc-mods/noel-christmas-mod/issues/create"
+[[mods]]
+modId="noel"
+version="1.6.0"
+displayName="Noel"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/noel-christmas-mod"
+logoFile="logo.png"
+authors="YourMediocrePal"
+credits="WenXin2 (textures), Kevin MacLeod (music discs)"
+description='''
+A Christmas Mod
+
+Music:
+(Jingle Bells/Deck the Halls-B/Dance of the Sugar Plum Fairies/
+Oh Christmas Tree/Up on a Housetop/We Wish you a Merry Christmas)
+ALL by Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0
+http://creativecommons.org/licenses/by/3.0/
+'''
+
+[[dependencies.noel]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[35,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.noel]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4]"
+    ordering="NONE"
+    side="BOTH"

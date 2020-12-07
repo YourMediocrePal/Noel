@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "# #",
+		"###",
+        "WWW"
+    ],
+
+    "key":
+    {
+        "#":
+        {
+            "item": "minecraft:red_wool"
+        },
+		"W":
+        {
+            "item": "minecraft:white_wool"
+        }
+    },
+
+    "result":
+    {
+        "item": "noel:santa_chestplate",
+        "count": 1
+    }
+}

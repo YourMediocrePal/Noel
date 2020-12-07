@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "stocking",
+    "pattern":
+    [
+        " ##",
+		" $$",
+		"$$$"
+    ],
+
+    "key":
+    {
+        "#":
+        {
+            "item": "minecraft:white_wool"
+        },
+
+		"$":
+        {
+            "item": "minecraft:yellow_wool"
+        }
+    },
+
+    "result":
+    {
+        "item": "noel:yellow_stocking",
+        "count": 1
+    }
+}

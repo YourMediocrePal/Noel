@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "ginger_bread_block",
+
+    "pattern":
+    [
+        "##",
+        "##"
+    ],
+
+    "key":
+    {
+        "#":
+        {
+            "item": "noel:ginger_bread_cookie"
+        }
+    },
+
+    "result":
+    {
+        "item": "noel:ginger_bread_block",
+        "count": 1
+    }
+}

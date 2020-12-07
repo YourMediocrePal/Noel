@@ -1,0 +1,16 @@
+{
+    "display": {
+        "icon": {
+            "item": "noel:candy_cane"
+        },
+        "title": "Noel",
+        "description": "The holidays are here!",
+        "background": "minecraft:textures/block/snow.png",
+		"show_toast": true
+    },
+    "criteria": {
+        "trigger_1": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

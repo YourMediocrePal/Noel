@@ -1,0 +1,18 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+    "1": "noel:blocks/light_string",
+		"particle": ""
+	},
+	"elements": [
+		{
+			"from": [0, 0, 15],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 15]},
+			"faces": {
+				"up": {"uv": [7, 7, 9, 9], "texture": "#1"},
+				"down": {"uv": [7, 7, 9, 9], "texture": "#1"}
+			}
+		}
+	]
+}

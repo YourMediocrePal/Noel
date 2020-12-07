@@ -1,0 +1,8 @@
+{
+	"parent": "noel:block/donation_booth",
+		"textures": {
+			"0": "noel:block/peppermint_log",
+			"1": "noel:block/peppermint_log",
+			"particle": "noelblock/peppermint_log"
+		}
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "noel:block/ginger_bread_planks",
+        "top": "noel:block/ginger_bread_planks",
+        "side": "noel:block/ginger_bread_planks"
+    }
+}

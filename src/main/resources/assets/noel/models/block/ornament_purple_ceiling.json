@@ -1,0 +1,7 @@
+{
+    "parent": "noel:block/ornament_ceiling",
+    "textures": {
+        "0": "noel:block/purple_stained_ornament",
+		"particle": "noel:block/purple_stained_ornament"
+    }
+}

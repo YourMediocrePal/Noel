@@ -1,0 +1,7 @@
+{
+    "parent": "noel:block/ornament_wall",
+    "textures": {
+        "0": "noel:block/lime_stained_ornament",
+		"particle": "noel:block/lime_stained_ornament"
+    }
+}

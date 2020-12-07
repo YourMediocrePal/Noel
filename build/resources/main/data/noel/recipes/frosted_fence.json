@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "#$#",
+        "#$#"
+    ],
+    
+    "key":
+    {
+        "#":
+        {
+            "item": "noel:frosted_planks"
+        },
+        "$":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "noel:frosted_fence",
+        "count": 4
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:oak_log"
+		},
+		{
+			"item": "minecraft:snowball"
+		}
+	],
+
+    "result":
+    {
+        "item": "noel:frosted_log",
+        "count": 1
+    }
+}

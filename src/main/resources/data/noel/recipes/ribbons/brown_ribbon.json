@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "ribbon",
+
+    "pattern":
+    [
+        "# #",
+        " # ",
+		    "# #"
+    ],
+
+    "key":
+    {
+        "#":
+        {
+            "item": "minecraft:brown_wool"
+        }
+    },
+
+    "result":
+    {
+        "item": "noel:brown_ribbon",
+        "count": 1
+    }
+}

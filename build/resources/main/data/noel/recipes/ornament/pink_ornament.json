@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "ornament",
+    "pattern":
+    [
+        "#",
+		"&"
+    ],
+
+    "key":
+    {
+        "#":
+        {
+            "item": "minecraft:string"
+        },
+		"&":
+        {
+            "item": "minecraft:pink_stained_glass"
+        }
+    },
+
+    "result":
+    {
+        "item": "noel:pink_ornament",
+        "count": 1
+    }
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "noel:block/ribbon",
+		"textures": {
+			"0": "block/brown_wool",
+			"particle": "block/brown_wool"
+		}
+}

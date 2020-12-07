@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "###",
+        "# #",
+		"# #"
+    ],
+    
+    "key":
+    {
+        "#":
+        {
+            "item": "noel:peppermint_log"
+        }
+    },
+    
+    "result":
+    {
+        "item": "noel:peppermint_leggings",
+        "count": 1
+    }
+}

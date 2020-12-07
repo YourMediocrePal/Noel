@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "candy_cane",
+    "pattern":
+    [
+        " D ",
+        "DSD",
+		    " D "
+    ],
+
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:sugar"
+        },
+        "D":
+        {
+            "item": "minecraft:purple_dye"
+        }
+    },
+
+    "result":
+    {
+        "item": "noel:sugar_plum",
+        "count": 1
+    }
+}

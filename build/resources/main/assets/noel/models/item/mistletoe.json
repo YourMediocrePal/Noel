@@ -1,0 +1,45 @@
+{
+	"parent": "noel:block/mistletoe_wall",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [52, -4, 0],
+			"translation": [0, 1.25, -5.5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [45, 0, 0],
+			"translation": [0, 0, -5.5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 3.5, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 3.25, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"ground": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [0, -148, 0],
+			"translation": [3.25, 0, 0]
+		},
+		"head": {
+			"rotation": [158, -2, 0],
+			"translation": [0, 14.5, 4.5]
+		},
+		"fixed": {
+			"translation": [0, 0, -8]
+		}
+	},
+	"groups": [
+		{
+			"name": "bone",
+			"origin": [0, 0, 0],
+			"children": [0, 1, 2, 3, 4, 5]
+		}
+	]
+}

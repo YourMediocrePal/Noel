@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        " IL",
+		"S S",
+		"III"
+    ],
+
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        },
+        "L":
+        {
+            "item": "minecraft:leather"
+        },
+		"S":
+        {
+            "item": "minecraft:red_terracotta"
+        }
+    },
+
+    "result":
+    {
+        "item": "noel:kettle",
+        "count": 1
+    }
+}

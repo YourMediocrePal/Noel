@@ -1,0 +1,21 @@
+{
+	"parent": "noel:recipes/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:string"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": [
+			"noel:ornament/black", "noel:ornament/blue", "noel:ornament/brown", "noel:ornament/coal", "noel:ornament/cyan", "noel:ornament/diamond", "noel:ornament/emerald", "noel:ornament/gold", "noel:ornament/gray", "noel:ornament/green", "noel:ornament/iron", "noel:ornament/lapis", "noel:ornament/light_blue", "noel:ornament/lime", "noel:ornament/magenta", "noel:ornament/orange", "noel:ornament/pink", "noel:ornament/red", "noel:ornament/redstone", "noel:ornament/silver", "noel:ornament/white", "noel:ornament/yellow", "noel:light_string"
+		]
+    }
+	
+}

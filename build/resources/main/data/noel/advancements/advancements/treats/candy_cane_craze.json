@@ -1,0 +1,32 @@
+{
+	"parent": "noel:advancements/treats/treats",
+    "display": {
+        "icon": {
+            "item": "noel:peppermint_log"
+        },
+        "title": "Candy Cane Craze",
+        "description": "Obtain a full set of peppermint armor.",
+		"show_toast": true
+    },
+    "criteria": {
+        "trigger_1": {
+            "trigger": "minecraft:inventory_changed",
+			"conditions": {
+                "items": [
+                    {
+                        "item": "noel:peppermint_helmet"
+                    },
+					{
+                        "item": "noel:peppermint_chestplate"
+                    },
+					{
+                        "item": "noel:peppermint_leggings"
+                    },
+					{
+                        "item": "noel:peppermint_boots"
+                    }
+                ]
+            }
+        }
+    }
+}

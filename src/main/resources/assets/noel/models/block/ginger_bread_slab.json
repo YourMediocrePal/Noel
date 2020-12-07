@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "noel:block/ginger_bread_block",
+        "top": "noel:block/ginger_bread_block",
+        "side": "noel:block/ginger_bread_block"
+    }
+}

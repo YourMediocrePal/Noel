@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "ornament",
+    "pattern":
+    [
+        "#",
+		"&"
+    ],
+
+    "key":
+    {
+        "#":
+        {
+            "item": "minecraft:string"
+        },
+		"&":
+        {
+            "item": "minecraft:lapis"
+        }
+    },
+
+    "result":
+    {
+        "item": "noel:lapis_ornament",
+        "count": 1
+    }
+}
