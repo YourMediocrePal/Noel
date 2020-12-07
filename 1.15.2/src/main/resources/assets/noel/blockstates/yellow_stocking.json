@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "noel:block/yellow_stocking" },
+    "facing=south": { "model": "noel:block/yellow_stocking", "y":  180},
+    "facing=west": { "model": "noel:block/yellow_stocking", "y":  270},
+    "facing=east": { "model": "noel:block/yellow_stocking", "y":  90}
+  }
+}

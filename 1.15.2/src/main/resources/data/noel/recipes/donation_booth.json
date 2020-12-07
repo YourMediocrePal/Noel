@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "###",
+		"#F#",
+		"# #"
+    ],
+    
+    "key":
+    {
+		"#":
+        {
+            "item": "minecraft:terracotta",
+			"data": 14
+        },
+		"F":
+        {
+            "item": "minecraft:flower_pot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "noel:donation_booth",
+        "count": 1
+    }
+}

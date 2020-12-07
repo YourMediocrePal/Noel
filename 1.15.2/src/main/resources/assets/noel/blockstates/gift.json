@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "color=white": { "model": "noel:present_white" },
+        "color=orange": { "model": "noel:present_orange" },
+		"color=magenta": { "model": "noel:present_magenta" },
+		"color=light_blue": { "model": "noel:present_light_blue" },
+		"color=yellow": { "model": "noel:present_yellow" },
+		"color=lime": { "model": "noel:present_lime" },
+		"color=pink": { "model": "noel:present_pink" },
+		"color=gray": { "model": "noel:present_gray" },
+		"color=silver": { "model": "noel:present_silver" },
+		"color=cyan": { "model": "noel:present_cyan" },
+		"color=purple": { "model": "noel:present_purple" },
+		"color=blue": { "model": "noel:present_blue" },
+		"color=brown": { "model": "noel:present_brown" },
+		"color=green": { "model": "noel:present_green" },
+		"color=red": { "model": "noel:present_red" },
+		"color=black": { "model": "noel:present_black" }
+    }
+}

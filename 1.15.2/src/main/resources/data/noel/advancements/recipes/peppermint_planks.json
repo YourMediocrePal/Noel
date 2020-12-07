@@ -1,0 +1,19 @@
+{
+	"parent": "noel:recipes/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "noel:peppermint_log"
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": ["noel:peppermint_planks"]
+    }
+	
+}

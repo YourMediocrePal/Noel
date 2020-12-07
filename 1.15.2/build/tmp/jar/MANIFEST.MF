@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Noel-1.15.2
+Implementation-Version: 1.15.2-1.3.1
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2020-11-30T18:26:58-0500
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

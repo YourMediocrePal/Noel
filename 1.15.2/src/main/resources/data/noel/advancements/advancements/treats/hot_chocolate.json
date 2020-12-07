@@ -1,0 +1,21 @@
+{
+	"parent": "noel:advancements/treats/treats",
+    "display": {
+        "icon": {
+            "item": "noel:hot_chocolate"
+        },
+        "title": "A Nice Cup of Cocoa",
+        "description": "Ignite a kettle, enter milk and cocoa, and use a mug to get hot cocoa!",
+		"show_toast": true
+    },
+    "criteria": {
+        "consume_item": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "item": "noel:hot_chocolate"
+                }
+            }
+        }
+    }
+}

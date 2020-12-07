@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_post",
+    "textures": {
+    	"edge": "noel:blocks/hanging_light_string_top",
+        "pane": "noel:blocks/hanging_light_string"
+    }
+}

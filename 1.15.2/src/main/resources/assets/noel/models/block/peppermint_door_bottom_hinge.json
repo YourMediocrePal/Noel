@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom_rh",
+    "textures": {
+        "bottom": "noel:block/peppermint_door_bottom",
+        "top": "noel:block/peppermint_door_top"
+    }
+}

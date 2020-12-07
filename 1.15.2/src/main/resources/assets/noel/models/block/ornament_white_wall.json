@@ -1,0 +1,7 @@
+{
+    "parent": "noel:block/ornament_wall",
+    "textures": {
+        "0": "block/white_stained_glass",
+		"particle": "block/white_stained_glass"
+    }
+}

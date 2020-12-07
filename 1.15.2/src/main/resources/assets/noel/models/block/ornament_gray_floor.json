@@ -1,0 +1,7 @@
+{
+    "parent": "noel:block/ornament_floor",
+    "textures": {
+        "0": "block/gray_stained_glass",
+		"particle": "block/gray_stained_glass"
+    }
+}

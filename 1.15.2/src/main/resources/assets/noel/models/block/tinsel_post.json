@@ -1,0 +1,7 @@
+{
+    "parent": "noel:block/template_light_string_post",
+    "textures": {
+        "edge": "noel:blocks/wall_tinsel_pane_top",
+        "pane": "noel:blocks/wall_tinsel"
+    }
+}

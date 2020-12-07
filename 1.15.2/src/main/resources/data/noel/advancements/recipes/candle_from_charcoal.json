@@ -1,0 +1,19 @@
+{
+	"parent": "noel:recipes/root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:sugar",
+                        "data": 1
+                    }
+                ]
+            }
+        }
+    },
+    "rewards": {
+        "recipes": ["noel:candle"]
+    }
+}
