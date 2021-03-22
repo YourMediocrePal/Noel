@@ -1,7 +1,0 @@
-{
-    "variants": {
-        "type=bottom": { "model": "noel:block/frosted_slab" },
-        "type=top": { "model": "noel:block/frosted_slab_top" },
-        "type=double": { "model": "noel:block/frosted_planks" }
-    }
-}

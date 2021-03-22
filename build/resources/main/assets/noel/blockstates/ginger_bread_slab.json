@@ -1,7 +1,0 @@
-{
-    "variants": {
-        "type=bottom": { "model": "noel:block/ginger_bread_slab" },
-        "type=top": { "model": "noel:block/ginger_bread_slab_top" },
-        "type=double": { "model": "noel:block/ginger_bread_block" }
-    }
-}

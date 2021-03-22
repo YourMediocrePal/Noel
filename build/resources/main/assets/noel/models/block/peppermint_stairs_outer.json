@@ -1,8 +1,0 @@
-{
-    "parent": "block/outer_stairs",
-    "textures": {
-        "bottom": "noel:block/peppermint_planks",
-        "top": "noel:block/peppermint_planks",
-        "side": "noel:block/peppermint_planks"
-    }
-}

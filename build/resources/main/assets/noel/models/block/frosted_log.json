@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "noel:block/frosted_log_top",
-    "side": "noel:block/frosted_log"
-  }
-}

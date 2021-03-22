@@ -1,8 +1,0 @@
-{
-	"parent": "noel:block/donation_booth",
-		"textures": {
-			"0": "block/magenta_concrete",
-			"1": "block/magenta_concrete",
-			"particle": "block/magenta_concrete"
-		}
-}

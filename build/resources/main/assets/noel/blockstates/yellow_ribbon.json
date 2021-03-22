@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=north": { "model": "noel:block/yellow_ribbon", "y": 180 },
-        "facing=east":  { "model": "noel:block/yellow_ribbon", "y": 270 },
-        "facing=south": { "model": "noel:block/yellow_ribbon"},
-        "facing=west":  { "model": "noel:block/yellow_ribbon", "y": 90 }
-    }
-}

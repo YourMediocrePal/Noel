@@ -1,8 +1,0 @@
-{
-    "parent": "block/stairs",
-    "textures": {
-        "bottom": "noel:block/frosted_planks",
-        "top": "noel:block/frosted_planks",
-        "side": "noel:block/frosted_planks"
-    }
-}

@@ -1,6 +1,0 @@
-{
-    "parent": "noel:block/template_light_string_noside",
-    "textures": {
-        "pane": "noel:blocks/wall_tinsel"
-    }
-}

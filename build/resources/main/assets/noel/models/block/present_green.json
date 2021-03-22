@@ -1,8 +1,0 @@
-{
-	"parent": "noel:block/present",
-		"textures": {
-			"0": "block/green_wool",
-			"1": "block/gold_block",
-			"particle": "block/green_wool"
-		}
-}

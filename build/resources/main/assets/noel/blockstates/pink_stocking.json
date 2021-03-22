@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "noel:block/pink_stocking" },
-    "facing=south": { "model": "noel:block/pink_stocking", "y":  180},
-    "facing=west": { "model": "noel:block/pink_stocking", "y":  270},
-    "facing=east": { "model": "noel:block/pink_stocking", "y":  90}
-  }
-}
