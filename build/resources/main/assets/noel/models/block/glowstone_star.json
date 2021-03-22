@@ -1,7 +1,0 @@
-{
-	"parent": "noel:block/star",
-    "textures": {
-		"particle": "block/glowstone",
-        "star": "block/glowstone"
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "variants": {
-        "axis=y":  { "model": "noel:block/frosted_log" },
-        "axis=z":   { "model": "noel:block/frosted_log", "x": 90 },
-        "axis=x":   { "model": "noel:block/frosted_log", "x": 90, "y": 90 }
-    }
-}

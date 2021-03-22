@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=east": { "model": "noel:block/wall_candle" },
-        "facing=south": { "model": "noel:block/wall_candle", "y": 90 },
-        "facing=west": { "model": "noel:block/wall_candle", "y": 180 },
-        "facing=north": { "model": "noel:block/wall_candle", "y": 270 }
-    }
-}

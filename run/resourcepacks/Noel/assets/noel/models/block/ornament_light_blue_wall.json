@@ -1,7 +1,0 @@
-{
-    "parent": "noel:block/ornament_wall",
-    "textures": {
-        "0": "noel:block/light_blue_stained_ornament",
-		"particle": "noel:block/light_blue_stained_ornament"
-    }
-}

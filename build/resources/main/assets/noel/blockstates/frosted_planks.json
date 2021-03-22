@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "": [
-            { "model": "noel:block/frosted_planks" },
-            { "model": "noel:block/frosted_planks0" }
-        ]
-    }
-}

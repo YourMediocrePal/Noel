@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column_horizontal",
-  "textures": {
-    "end": "noel:block/peppermint_log_top",
-    "side": "noel:block/peppermint_log"
-  }
-}

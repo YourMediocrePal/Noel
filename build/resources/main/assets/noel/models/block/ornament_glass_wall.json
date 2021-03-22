@@ -1,8 +1,0 @@
-{
-   "parent": "noel:block/ornament_wall",
-    "textures": {
-        "0": "noel:block/glass_ornament",
-        "1": "block/anvil_base",
-		"particle": "noel:block/glass_ornament"
-    }
-}

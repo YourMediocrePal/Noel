@@ -1,7 +1,0 @@
-{
-    "variants": {
-        "type=bottom": { "model": "noel:block/peppermint_slab" },
-        "type=top": { "model": "noel:block/peppermint_slab_top" },
-        "type=double": { "model": "noel:block/peppermint_planks" }
-    }
-}

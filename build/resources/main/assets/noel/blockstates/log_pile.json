@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=north": { "model": "noel:log_pile", "y": 90 },
-		"facing=south": { "model": "noel:log_pile", "y": 90 },
-		"facing=east": { "model": "noel:log_pile"  },
-		"facing=west": { "model": "noel:log_pile"  }
-    }
-}

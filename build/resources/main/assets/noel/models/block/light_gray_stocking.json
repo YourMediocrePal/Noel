@@ -1,7 +1,0 @@
-{
-	"parent": "noel:block/stocking",
-		"textures": {
-			"0": "block/light_gray_wool",
-			"particle": "block/light_gray_wool"
-		}
-}
