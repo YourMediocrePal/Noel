@@ -1,6 +1,6 @@
 {
-    "parent": "block/pane_noside",
-    "textures": {
-        "pane": "noel:blocks/hanging_light_string"
-    }
+  "parent": "minecraft:block/template_glass_pane_noside",
+  "textures": {
+    "pane": "noel:block/light_string"
+  }
 }

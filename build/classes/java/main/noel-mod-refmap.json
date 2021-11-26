@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "mod/yourmediocrepal/noel/mixin/ExampleMixin": {
+      "init()V": "Lnet/minecraft/class_442;method_25426()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "mod/yourmediocrepal/noel/mixin/ExampleMixin": {
+        "init()V": "Lnet/minecraft/class_442;method_25426()V"
+      }
+    }
+  }
+}

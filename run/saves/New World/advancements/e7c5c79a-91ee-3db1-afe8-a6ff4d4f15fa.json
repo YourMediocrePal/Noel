@@ -1,0 +1,202 @@
+{
+  "noel:recipes/stone_path": {
+    "criteria": {
+      "trigger": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/from_spirit": {
+    "criteria": {
+      "trigger": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/bell_ringer": {
+    "criteria": {
+      "trigger": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/mug": {
+    "criteria": {
+      "trigger": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "noel:advancements/christmas/ornament": {
+    "criteria": {
+      "trigger_19": "2021-11-24 12:28:20 -0500",
+      "trigger_13": "2021-11-24 12:28:06 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/peppermint_planks": {
+    "criteria": {
+      "trigger": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/from_mug": {
+    "criteria": {
+      "trigger": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/present_trap": {
+    "criteria": {
+      "trigger": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "noel:advancements/root": {
+    "criteria": {
+      "trigger_1": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/candle_from_charcoal": {
+    "criteria": {
+      "trigger": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2021-11-24 12:28:04 -0500"
+    },
+    "done": false
+  },
+  "noel:recipes/candy_cane": {
+    "criteria": {
+      "trigger": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/from_string": {
+    "criteria": {
+      "trigger": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/wreath": {
+    "criteria": {
+      "trigger": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/star": {
+    "criteria": {
+      "trigger": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/candle_from_coal": {
+    "criteria": {
+      "has_coal": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/peppermint_armor": {
+    "criteria": {
+      "trigger": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "noel:advancements/christmas/spirit": {
+    "criteria": {
+      "trigger_1": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/frosted_log": {
+    "criteria": {
+      "trigger": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_stairs": "2021-11-24 12:28:04 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 2730
+}

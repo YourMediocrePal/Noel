@@ -1,0 +1,117 @@
+{
+  "noel:recipes/candy_cane": {
+    "criteria": {
+      "trigger": "2021-11-24 10:52:43 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/stone_path": {
+    "criteria": {
+      "trigger": "2021-11-24 10:52:43 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/from_spirit": {
+    "criteria": {
+      "trigger": "2021-11-24 10:52:43 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/bell_ringer": {
+    "criteria": {
+      "trigger": "2021-11-24 10:52:43 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/from_string": {
+    "criteria": {
+      "trigger": "2021-11-24 10:52:43 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/wreath": {
+    "criteria": {
+      "trigger": "2021-11-24 10:52:43 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/star": {
+    "criteria": {
+      "trigger": "2021-11-24 10:52:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-11-24 10:52:43 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/mug": {
+    "criteria": {
+      "trigger": "2021-11-24 10:52:43 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/peppermint_planks": {
+    "criteria": {
+      "trigger": "2021-11-24 10:52:43 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/from_mug": {
+    "criteria": {
+      "trigger": "2021-11-24 10:52:43 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/candle_from_coal": {
+    "criteria": {
+      "has_coal": "2021-11-24 10:52:43 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/present_trap": {
+    "criteria": {
+      "trigger": "2021-11-24 10:52:43 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/peppermint_armor": {
+    "criteria": {
+      "trigger": "2021-11-24 10:52:43 -0500"
+    },
+    "done": true
+  },
+  "noel:advancements/root": {
+    "criteria": {
+      "trigger_1": "2021-11-24 10:52:43 -0500"
+    },
+    "done": true
+  },
+  "noel:advancements/christmas/spirit": {
+    "criteria": {
+      "trigger_1": "2021-11-24 10:52:43 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/frosted_log": {
+    "criteria": {
+      "trigger": "2021-11-24 10:52:43 -0500"
+    },
+    "done": true
+  },
+  "noel:recipes/candle_from_charcoal": {
+    "criteria": {
+      "trigger": "2021-11-24 10:52:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2021-11-24 10:52:43 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}

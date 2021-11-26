@@ -1,8 +1,0 @@
-{
-   "parent": "noel:block/ornament_floor",
-    "textures": {
-        "0": "noel:block/emerald_ornament",
-        "1": "block/anvil_base",
-		"particle": "noel:block/emerald_ornament"
-    }
-}

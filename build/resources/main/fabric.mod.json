@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "noel",
+  "version": "1.0.0",
+
+  "name": "Noel Mod",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "authors": [
+    "YourMediocrePal"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/noel/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "mod.yourmediocrepal.noel.NoelMod"
+    ],
+    "client": [
+      "mod.yourmediocrepal.noel.NoelClientMod"
+    ]
+  },
+  "mixins": [
+    "noel.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

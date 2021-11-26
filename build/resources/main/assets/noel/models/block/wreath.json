@@ -1,8 +1,8 @@
 {
 	"textures": {
-		"2": "noel:block/oak_leaves",
+		"2": "minecraft:block/oak_leaves",
 		"3": "block/red_concrete",
-		"particle": "noel:block/oak_leaves"
+		"particle": "minecraft:block/oak_leaves"
 	},
 	"elements": [
 		{

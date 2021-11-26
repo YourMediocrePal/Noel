@@ -1,4 +1,4 @@
-version:2584
+version:2730
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -11,18 +11,19 @@ discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
 reducedDebugInfo:false
-snooperEnabled:false
+snooperEnabled:true
 showSubtitles:false
 touchscreen:false
 fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
+darkMojangStudiosBackground:false
 mouseSensitivity:0.5
 fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
-gamma:1.0
+gamma:0.0
 renderDistance:12
 entityDistanceScaling:1.0
 guiScale:0
@@ -33,9 +34,9 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","mod_resources"]
+resourcePacks:["Fabric Mods"]
 incompatibleResourcePacks:[]
-lastServer:127.0.0.1:64031
+lastServer:
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
@@ -43,13 +44,13 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
 heldItemTooltips:true
 chatHeightFocused:1.0
-chatDelay: 0.0
+chatDelay:0.0
 chatHeightUnfocused:0.44366195797920227
 chatScale:1.0
 chatWidth:1.0
@@ -62,9 +63,10 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:true
+skipMultiplayerWarning:false
 hideMatchedNames:true
-joinedFirstServer:true
+joinedFirstServer:false
+hideBundleTutorial:false
 syncChunkWrites:false
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
@@ -79,7 +81,7 @@ key_key.drop:key.keyboard.q
 key_key.inventory:key.keyboard.e
 key_key.chat:key.keyboard.t
 key_key.playerlist:key.keyboard.tab
-key_key.pickItem:key.keyboard.m
+key_key.pickItem:key.mouse.middle
 key_key.command:key.keyboard.slash
 key_key.socialInteractions:key.keyboard.p
 key_key.screenshot:key.keyboard.f2
@@ -101,7 +103,7 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 soundCategory_master:1.0
-soundCategory_music:0.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
