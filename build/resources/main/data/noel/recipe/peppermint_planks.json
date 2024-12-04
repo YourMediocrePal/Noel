@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+	
+	"ingredients": [
+		{
+			"item": "noel:peppermint_log"
+		}
+	],
+    "result":
+    {
+        "id": "noel:peppermint_planks",
+        "count": 4
+    }
+}

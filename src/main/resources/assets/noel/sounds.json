@@ -1,5 +1,14 @@
 {
+  "jingle_bells": {
+    "subtitle": "sounds.noel.jingle_bells",
+    "sounds": [
+      {
+        "name": "noel:jingle_bells"
+      }
+    ]
+  },
   "music_disc.deck_the_halls": {
+    "subtitle": "sounds.noel.music_disc.deck_the_halls",
     "sounds": [
       {
         "name": "noel:records/deck_the_halls",

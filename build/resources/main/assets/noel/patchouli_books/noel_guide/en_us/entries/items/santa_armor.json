@@ -1,0 +1,32 @@
+{
+  "name": "Santa Suit",
+  "icon": "noel:santa_helmet",
+  "category": "noel:items_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:santa_helmet",
+      "text": "The Santa suit itself!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:santa_helmet",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:santa_chestplate",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:santa_leggings",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:santa_boots",
+      "text": " "
+    }
+  ]
+}

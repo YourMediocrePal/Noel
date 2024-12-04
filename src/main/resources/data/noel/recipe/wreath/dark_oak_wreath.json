@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "###",
+		"# #",
+		"###"
+    ],
+
+    "key":
+    {
+        "#":
+        {
+            "item": "minecraft:dark_oak_leaves"
+        }
+    },
+
+    "result":
+    {
+        "id": "noel:dark_oak_wreath",
+        "count": 1
+    }
+}

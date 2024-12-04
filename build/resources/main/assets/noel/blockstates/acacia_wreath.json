@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "noel:block/acacia_wreath", "y": 180 },
+        "facing=east":  { "model": "noel:block/acacia_wreath", "y": 270 },
+        "facing=south": { "model": "noel:block/acacia_wreath"},
+        "facing=west":  { "model": "noel:block/acacia_wreath", "y": 90 }
+    }
+}

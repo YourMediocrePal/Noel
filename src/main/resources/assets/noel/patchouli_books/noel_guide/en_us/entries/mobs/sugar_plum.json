@@ -1,0 +1,17 @@
+{
+  "name": "Sugar Plum Fairy",
+  "icon": "noel:sugar_plum_fairy_spawn_egg",
+  "category": "noel:mobs_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:sugar_plum_fairy_spawn_egg",
+      "text": "Dancing around your head! Spawned from opening presents."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:sugar_plum",
+      "text": "Drops sugar plums."
+    }
+  ]
+}

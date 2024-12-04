@@ -1,0 +1,12 @@
+{
+  "name": "Ginger Bread Cookie",
+  "icon": "noel:ginger_bread_cookie",
+  "category": "noel:items_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:ginger_bread_cookie",
+      "text": "Acquired by catching a ginger bread man."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Bell Ringer",
+  "icon": "noel:bell_ringer",
+  "category": "noel:items_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:bell_ringer",
+      "text": "Gather the attention of all those around! Plays a bell noise when clicked."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:bell_ringer",
+      "text": " "
+    }
+  ]
+}

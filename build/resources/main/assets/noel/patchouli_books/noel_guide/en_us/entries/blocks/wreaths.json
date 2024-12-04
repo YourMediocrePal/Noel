@@ -1,0 +1,57 @@
+{
+  "name": "Wreaths",
+  "icon": "noel:oak_wreath",
+  "category": "noel:blocks_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:oak_wreath",
+      "text": "Decoration."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:wreaths/oak_wreath",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:wreaths/birch_wreath",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:wreaths/spruce_wreath",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:wreaths/jungle_wreath",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:wreaths/dark_oak_wreath",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:wreaths/acacia_wreath",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:wreaths/azalea_wreath",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:wreaths/cherry_wreath",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:wreaths/mangrove_wreath",
+      "text": " "
+    }
+  ]
+}

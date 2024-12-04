@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "noel:mug"
+		},
+		{
+			"item": "minecraft:milk_bucket"
+		}
+	],
+
+    "result":
+    {
+        "id": "noel:mug_milk",
+        "count": 1
+    }
+}

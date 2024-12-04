@@ -1,0 +1,17 @@
+{
+  "name": "Sugar Plum",
+  "icon": "noel:sugar_plum",
+  "category": "noel:items_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:sugar_plum",
+      "text": "And sugar plums danced around their heads..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:sugar_plum",
+      "text": " "
+    }
+  ]
+}

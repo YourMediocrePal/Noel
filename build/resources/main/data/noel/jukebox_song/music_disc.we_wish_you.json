@@ -1,0 +1,8 @@
+{
+  "comparator_output": 12,
+  "description": {
+    "translate": "jukebox_song.noel.we_wish_you"
+  },
+  "length_in_seconds": 176.0,
+  "sound_event": "noel:music_disc.we_wish_you"
+}

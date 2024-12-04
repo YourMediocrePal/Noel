@@ -1,8 +1,0 @@
-{
-  "type": "noel:kettle",
-  "ingredient": {
-    "item": "minecraft:stone"
-  },
-  "result": "minecraft:diamond",
-  "experience": 0.2
-}

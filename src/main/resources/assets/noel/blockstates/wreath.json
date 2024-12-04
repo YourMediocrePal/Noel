@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=north": { "model": "noel:block/wreath", "y": 180 },
-        "facing=east":  { "model": "noel:block/wreath", "y": 270 },
-        "facing=south": { "model": "noel:block/wreath"},
-        "facing=west":  { "model": "noel:block/wreath", "y": 90 }
-    }
-}

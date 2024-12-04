@@ -1,0 +1,92 @@
+{
+  "name": "Ribbons",
+  "icon": "noel:red_ribbon",
+  "category": "noel:blocks_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:red_ribbon",
+      "text": "Decoration."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ribbons/black_ribbon",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ribbons/blue_ribbon",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ribbons/brown_ribbon",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ribbons/cyan_ribbon",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ribbons/gray_ribbon",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ribbons/green_ribbon",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ribbons/light_blue_ribbon",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ribbons/light_gray_ribbon",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ribbons/lime_ribbon",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ribbons/magenta_ribbon",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ribbons/orange_ribbon",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ribbons/pink_ribbon",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ribbons/purple_ribbon",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ribbons/red_ribbon",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ribbons/white_ribbon",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ribbons/yellow_ribbon",
+      "text": " "
+    }
+  ]
+}

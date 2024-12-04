@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "###",
+		"# #",
+		"###"
+    ],
+
+    "key":
+    {
+        "#":
+        {
+            "item": "minecraft:jungle_leaves"
+        }
+    },
+
+    "result":
+    {
+        "id": "noel:jungle_wreath",
+        "count": 1
+    }
+}

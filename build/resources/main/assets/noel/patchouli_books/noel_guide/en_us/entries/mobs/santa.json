@@ -1,0 +1,17 @@
+{
+  "name": "Sugar Plum Fairy",
+  "icon": "noel:santa_spawn_egg",
+  "category": "noel:mobs_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:santa_spawn_egg",
+      "text": "The big man himself! When drinking hot chocolate before bed you tend to feel festive. This will summon Santa! Make sure you have a clear path to a nearby Christmas tree and he will place presents for you."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:present",
+      "text": "Places presents near a Christmas tree structure. To build a tree structure, have a tree topper on top."
+    }
+  ]
+}

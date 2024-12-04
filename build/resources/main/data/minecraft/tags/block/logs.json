@@ -1,0 +1,10 @@
+{
+  "replace": false,
+ "values":[
+   "noel:frosted_log",
+   "noel:frosted_wood",
+   "noel:stripped_frosted_log",
+   "noel:stripped_frosted_wood",
+   "noel:peppermint_log"
+ ]
+}

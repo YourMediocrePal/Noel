@@ -1,0 +1,7 @@
+{
+	"parent": "noel:block/wreath",
+		"textures": {
+			"0": "block/acacia_leaves",
+			"particle": "block/acacia_leaves"
+		}
+}

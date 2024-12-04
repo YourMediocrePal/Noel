@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+
+    "pattern":
+    [
+        "###",
+		"# #",
+		"###"
+    ],
+
+    "key":
+    {
+        "#":
+        {
+            "item": "minecraft:spruce_leaves"
+        }
+    },
+
+    "result":
+    {
+        "id": "noel:spruce_wreath",
+        "count": 1
+    }
+}

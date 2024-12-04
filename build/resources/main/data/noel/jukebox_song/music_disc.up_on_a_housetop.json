@@ -1,0 +1,8 @@
+{
+  "comparator_output": 12,
+  "description": {
+    "translate": "jukebox_song.noel.up_on_a_housetop"
+  },
+  "length_in_seconds": 176.0,
+  "sound_event": "noel:music_disc.up_on_a_housetop"
+}

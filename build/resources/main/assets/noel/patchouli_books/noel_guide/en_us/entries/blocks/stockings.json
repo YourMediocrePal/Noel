@@ -1,0 +1,92 @@
+{
+  "name": "Stockings",
+  "icon": "noel:red_stocking",
+  "category": "noel:blocks_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:red_stocking",
+      "text": "Hung above the fireplace, oh so warm!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:stockings/black_stocking",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:stockings/blue_stocking",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:stockings/brown_stocking",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:stockings/cyan_stocking",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:stockings/gray_stocking",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:stockings/green_stocking",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:stockings/light_blue_stocking",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:stockings/light_gray_stocking",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:stockings/lime_stocking",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:stockings/magenta_stocking",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:stockings/orange_stocking",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:stockings/pink_stocking",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:stockings/purple_stocking",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:stockings/red_stocking",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:stockings/white_stocking",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:stockings/yellow_stocking",
+      "text": " "
+    }
+  ]
+}

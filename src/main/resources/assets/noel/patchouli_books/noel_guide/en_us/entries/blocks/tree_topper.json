@@ -1,0 +1,22 @@
+{
+  "name": "Tree Topper",
+  "icon": "noel:gold_star",
+  "category": "noel:blocks_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:gold_star",
+      "text": "Creates a Christmas tree structure! When placed nearby a bed, can summon a Santa."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:gold_star",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:glowstone_star",
+      "text": " "
+    }
+  ]
+}

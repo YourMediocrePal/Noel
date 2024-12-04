@@ -1,0 +1,137 @@
+{
+  "name": "Ornaments",
+  "icon": "noel:glass_ornament",
+  "category": "noel:blocks_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:glass_ornament",
+      "text": "Classic way to decorate the tree!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/glass_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/coal_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/gold_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/iron_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/redstone_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/lapis_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/diamond_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/emerald_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/copper_ornament",
+      "text": "Can be oxidized."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/black_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/blue_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/brown_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/cyan_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/gray_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/green_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/light_blue_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/light_gray_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/lime_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/magenta_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/orange_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/pink_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/purple_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/red_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/white_ornament",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ornament/yellow_ornament",
+      "text": " "
+    }
+  ]
+}
