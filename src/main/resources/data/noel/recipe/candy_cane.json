@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        " #",
+        " #"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:sugar"
+        }
+    },
+    "result": {
+        "id": "noel:candy_cane",
+        "count": 2
+    }
+}

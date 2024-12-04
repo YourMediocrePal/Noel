@@ -1,0 +1,22 @@
+{
+  "name": "Ingredients",
+  "icon": "noel:gelatin",
+  "category": "noel:items_category",
+  "pages": [
+    {
+      "type": "patchouli:smelting",
+      "recipe": "noel:gelatin",
+      "text": "Used to craft gumdrop blocks."
+    },
+    {
+      "type": "patchouli:smelting",
+      "recipe": "noel:molasses",
+      "text": "Used to create ginger bread blocks!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:mug",
+      "text": "Used for the warmest of drinks! Can be used to craft hot chocolate."
+    }
+  ]
+}

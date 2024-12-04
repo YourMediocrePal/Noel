@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "noel:item/peppermint_hanging_sign"
+  }
+}

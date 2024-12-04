@@ -1,0 +1,45 @@
+{
+  "name": "Ginger Bread Blocks",
+  "icon": "noel:ginger_bread_block",
+  "category": "noel:blocks_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:ginger_bread_block",
+      "text": "Make your own ginger bread house!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ginger_bread_block",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ginger_bread_stairs",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ginger_bread_slab",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ginger_bread_door",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ginger_bread_wall",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ginger_bread_sign"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:ginger_bread_hanging_sign"
+    }
+  ]
+}

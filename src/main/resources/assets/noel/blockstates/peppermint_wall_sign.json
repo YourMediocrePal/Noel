@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": { "model": "block/acacia_sign" }
+        "": { "model": "noel:block/peppermint_sign" }
     }
 }

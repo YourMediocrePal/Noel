@@ -1,0 +1,17 @@
+{
+  "name": "Ginger Bread",
+  "icon": "noel:ginger_bread_spawn_egg",
+  "category": "noel:mobs_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:ginger_bread_spawn_egg",
+      "text": "Fast little guys! Spawned from opening presents."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:ginger_bread_cookie",
+      "text": "Drops ginger bread cookies."
+    }
+  ]
+}

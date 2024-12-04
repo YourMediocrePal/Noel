@@ -1,0 +1,32 @@
+{
+  "name": "Peppermint Armor",
+  "icon": "noel:peppermint_helmet",
+  "category": "noel:items_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:peppermint_helmet",
+      "text": "The delicious display of sugar."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:peppermint_helmet",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:peppermint_chestplate",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:peppermint_leggings",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:peppermint_boots",
+      "text": " "
+    }
+  ]
+}

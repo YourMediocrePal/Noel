@@ -1,0 +1,27 @@
+{
+  "name": "Presents",
+  "icon": "noel:present",
+  "category": "noel:blocks_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:present",
+      "text": "A gift from one to another! Gives random loot upon breaking. "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:present",
+      "text": " "
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:present_trap",
+      "text": "TNT wrapped into a gift! Who wouldn't want that?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:present_trap",
+      "text": " "
+    }
+  ]
+}

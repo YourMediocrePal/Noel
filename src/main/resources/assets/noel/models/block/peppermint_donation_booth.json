@@ -3,6 +3,6 @@
 		"textures": {
 			"0": "noel:block/peppermint_log",
 			"1": "noel:block/peppermint_log",
-			"particle": "noelblock/peppermint_log"
+			"particle": "noel:block/peppermint_log"
 		}
 }

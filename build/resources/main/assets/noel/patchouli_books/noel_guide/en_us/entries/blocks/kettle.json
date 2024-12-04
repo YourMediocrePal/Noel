@@ -1,0 +1,17 @@
+{
+  "name": "Kettle",
+  "icon": "noel:kettle",
+  "category": "noel:blocks_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:kettle",
+      "text": "Used to craft hot chocolate! Add milk, cocoa beans, and a mug into the kettle."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:kettle",
+      "text": " "
+    }
+  ]
+}

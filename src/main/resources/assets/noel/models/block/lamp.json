@@ -1,8 +1,8 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-		"particle": "blocks/anvil_base",
-        "0": "blocks/anvil_base",
+		"particle": "blocks/anvil",
+        "0": "blocks/anvil",
         "1": "blocks/glass",
         "2": "blocks/torch_on"
     },

@@ -1,0 +1,42 @@
+{
+  "name": "Gumdrop Blocks",
+  "icon": "noel:red_gumdrop",
+  "category": "noel:blocks_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:red_gumdrop",
+      "text": "Such a delicious building block..."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:gumdrop/red_gumdrop",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:gumdrop/orange_gumdrop",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:gumdrop/yellow_gumdrop",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:gumdrop/green_gumdrop",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:gumdrop/blue_gumdrop",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:gumdrop/purple_gumdrop",
+      "text": " "
+    }
+  ]
+}

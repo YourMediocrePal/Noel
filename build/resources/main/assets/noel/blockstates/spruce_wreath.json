@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "noel:block/spruce_wreath", "y": 180 },
+        "facing=east":  { "model": "noel:block/spruce_wreath", "y": 270 },
+        "facing=south": { "model": "noel:block/spruce_wreath"},
+        "facing=west":  { "model": "noel:block/spruce_wreath", "y": 90 }
+    }
+}

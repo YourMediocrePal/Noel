@@ -1,0 +1,8 @@
+{
+  "replace": false,
+ "values":[
+      "noel:peppermint_door",
+      "noel:frosted_door",
+      "noel:ginger_bread_door"
+ ]
+}

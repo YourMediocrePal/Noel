@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "mod/yourmediocrepal/mixin/NoelMixin": {
+      "loadWorld": "Lnet/minecraft/server/MinecraftServer;method_3735()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "mod/yourmediocrepal/mixin/NoelMixin": {
+        "loadWorld": "Lnet/minecraft/server/MinecraftServer;method_3735()V"
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+   "parent": "noel:block/ornament_wall",
+    "textures": {
+        "0": "noel:block/oxidized_copper_ornament",
+        "1": "block/anvil",
+		"particle": "noel:block/oxidized_copper_ornament"
+    }
+}

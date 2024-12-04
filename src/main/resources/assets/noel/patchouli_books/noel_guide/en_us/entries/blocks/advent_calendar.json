@@ -1,0 +1,17 @@
+{
+  "name": "Advent Calendar",
+  "icon": "noel:advent_calendar",
+  "category": "noel:blocks_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:advent_calendar",
+      "text": "How close are we 'till Christmas?"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:advent_calendar",
+      "text": " "
+    }
+  ]
+}

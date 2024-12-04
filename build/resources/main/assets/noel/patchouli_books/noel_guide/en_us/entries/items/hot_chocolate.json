@@ -1,0 +1,17 @@
+{
+  "name": "Hot Chocolate",
+  "icon": "noel:hot_chocolate",
+  "category": "noel:items_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "A holiday favorite! To craft: put cocoa beans, a milk bucket, and a mug into a kettle."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:hot_chocolate",
+      "title": "Hot Chocolate",
+      "text": " "
+    }
+  ]
+}

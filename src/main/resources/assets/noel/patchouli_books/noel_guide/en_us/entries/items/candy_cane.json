@@ -1,0 +1,29 @@
+{
+  "name": "Candy Cane",
+  "icon": "noel:candy_cane",
+  "category": "noel:items_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:candy_cane",
+      "title": "Candy Cane",
+      "text": " "
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:candy_cane",
+      "text": " "
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:peppermint_candy",
+      "title": "Peppermint Candy",
+      "text": "The smaller sweetest of treats!"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:peppermint_candy",
+      "text": " "
+    }
+  ]
+}

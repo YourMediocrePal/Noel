@@ -1,0 +1,68 @@
+{
+  "name": "Frosted Wood Blocks",
+  "icon": "noel:frosted_log",
+  "category": "noel:blocks_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:frosted_log",
+      "text": "Wood so cold it froze! Can also be stripped."
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:frosted_log"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:frosted_wood"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:frosted_planks"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:frosted_stairs"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:frosted_slab"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:frosted_trapdoor"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:frosted_door"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:frosted_fence"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:frosted_fence_gate"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:frosted_button"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:frosted_sign"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:frosted_hanging_sign"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:frosted_boat"
+    },
+    {
+      "type": "patchouli:crafting",
+      "recipe": "noel:frosted_chest_boat"
+    }
+  ]
+}

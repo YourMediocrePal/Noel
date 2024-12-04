@@ -1,0 +1,12 @@
+{
+  "name": "Poinsettia",
+  "icon": "noel:poinsettia",
+  "category": "noel:blocks_category",
+  "pages": [
+    {
+      "type": "patchouli:spotlight",
+      "item": "noel:poinsettia",
+      "text": "The Christmas flower! Found in jungle biomes and can be potted."
+    }
+  ]
+}

@@ -2,7 +2,7 @@
    "parent": "noel:block/ornament_floor",
     "textures": {
         "0": "noel:block/gold_ornament",
-        "1": "block/anvil_base",
+        "1": "block/anvil",
 		"particle": "noel:block/gold_ornament"
     }
 }
